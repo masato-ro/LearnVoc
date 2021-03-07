@@ -1,0 +1,12 @@
+C:\Users\luyen\source\repos\LearnVoc\bin\Debug\LearnVoc.exe.config
+C:\Users\luyen\source\repos\LearnVoc\bin\Debug\LearnVoc.exe
+C:\Users\luyen\source\repos\LearnVoc\bin\Debug\LearnVoc.pdb
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.csprojAssemblyReference.cache
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.Form1.resources
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.Properties.Resources.resources
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.csproj.GenerateResource.cache
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.csproj.CoreCompileInputs.cache
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.exe
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.pdb
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.AboutBox1.resources
+C:\Users\luyen\source\repos\LearnVoc\obj\Debug\LearnVoc.Resource1.resources
